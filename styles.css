@@ -31,6 +31,17 @@ background-color: red;
 .black {
     background-color: black
 }
+.green{
+    background-color: green
+}
+.pink{
+    background-color: lightskyblue
+}
+.orange{
+    background-color: orange
+}
+
+
 .right{
     float: right;
 }
@@ -85,4 +96,12 @@ background-color: red;
 #purplebox{
     height: 45px;
     width: 20px;
+}
+#divider5{
+    height: 10px;
+    width: 20px;
+}
+#greenbox{
+    width: 20px;
+    height: 45px;
 }
